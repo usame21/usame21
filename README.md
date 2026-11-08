@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Osama 👋
 
-<!--
-**usame21/usame21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst based in Las-anod, Somalia. I turn messy field data into clear records, dashboards and reports that people can act on.
 
-Here are some ideas to get you started:
+## 💧 Experience
+**Water Department, Ministry of Energy, Water & Resources (MOEWR)**
+- Designed a borehole database in MySQL to track wells, their status and failures
+- Cleaned, validated and reconciled field data collected from wells managers
+- Built Power BI dashboards to monitor well performance across regions
+- Created **BSU (Borehole Status Update)**, a Google Forms system that replaced "borehole X failed" phone calls with structured reports that go straight to the department email and a spreadsheet
+- Collected borehole details by phone from wells managers and kept accurate records
+- Prepared reports and summaries for department leadership
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+SQL (MySQL) · Power BI · Excel · Google Sheets and Forms · Python (basic)
+
+## 🌍 Languages
+Somali · English
+
+## 📫 Contact
+- Email: usameomar15@gmail.com
